@@ -1,0 +1,9 @@
+D:\myVisualStudioProjects\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\OnlineShoppingStore.Domain.dll.config
+D:\myVisualStudioProjects\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\OnlineShoppingStore.Domain.dll
+D:\myVisualStudioProjects\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\OnlineShoppingStore.Domain.pdb
+D:\myVisualStudioProjects\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.dll
+D:\myVisualStudioProjects\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\myVisualStudioProjects\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.xml
+D:\myVisualStudioProjects\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\myVisualStudioProjects\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore.Domain\obj\Debug\OnlineShoppingStore.Domain.dll
+D:\myVisualStudioProjects\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore.Domain\obj\Debug\OnlineShoppingStore.Domain.pdb
